@@ -83,7 +83,6 @@
   --ccfo-footer-bg: #000000;
   --ccfo-footer-text: #FFFFFF;
 }
-}
 
 .dark {
   --background: oklch(0.145 0 0);
